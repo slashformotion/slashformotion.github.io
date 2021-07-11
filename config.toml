@@ -1,12 +1,12 @@
 
 
 # DO NOT REMOVE THIS
-theme = "hugo-theme-codex" 
+theme = "hugo-theme-codex"
 
 # Override these settings with your own
 title = "codex"
 languageCode = "en-us"
-baseURL = "https://slashformotion.github.io/"
+baseURL = "https://slashformotion.github.io"
 copyright = "© {year}"
 
 # Add your Disqus shortname here.
@@ -23,7 +23,7 @@ copyright = "© {year}"
 
     # Links to your social accounts, comment/uncomment as needed. Icons will be displayed for those specified.
     # twitter = "https://twitter.com/<your handle>"
-    github = "https://github.com/<your handle>"
+    github = "https://github.com/slashformotion"
     email = "mailto:slashformotion[at]protonmail.com"
     # mastodon = "https://mastodon.social/@nickname"
     # facebook = "https://facebook.com/<your handle>"
